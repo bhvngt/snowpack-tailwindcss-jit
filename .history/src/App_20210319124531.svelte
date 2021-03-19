@@ -15,6 +15,7 @@
 	  font-family: Arial, Helvetica, sans-serif;
 	}
 	.App code {
+	  background: #0002;
 	  padding: 4px 8px;
 	  border-radius: 4px;
 	}
@@ -51,10 +52,10 @@
 	}
   </style>
   
-  <div class="App">
+  <div class="App text-center">
 	<header class="App-header">
 	  <img src="/logo.svg" class="App-logo" alt="logo" />
-	  <p>Edit <code class="bg-gray-300">src/App.svelte</code> and save to reload.</p>
+	  <p>Edit <code>src/App.svelte</code> and save to reload.</p>
 	  <p>Page has been open for <code>{count}</code> seconds.</p>
 	  <p>
 		<a class="App-link" href="https://svelte.dev" target="_blank" rel="noopener noreferrer">

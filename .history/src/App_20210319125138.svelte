@@ -54,7 +54,7 @@
   <div class="App">
 	<header class="App-header">
 	  <img src="/logo.svg" class="App-logo" alt="logo" />
-	  <p>Edit <code class="bg-gray-300">src/App.svelte</code> and save to reload.</p>
+	  <p>Edit <code class="bg-gray-900">src/App.svelte</code> and save to reload.</p>
 	  <p>Page has been open for <code>{count}</code> seconds.</p>
 	  <p>
 		<a class="App-link" href="https://svelte.dev" target="_blank" rel="noopener noreferrer">
